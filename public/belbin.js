@@ -114,15 +114,15 @@
     }, {});
 
     var abbrMap = {
-        CO: "Co-ordinator",
-        SH: "Shaper",
-        PL: "Plant",
-        ME: "Monitor Evaluator",
-        IMP: "Implementer",
-        TW: "Team Worker",
-        RI: "Resource Investigator",
-        CF: "Completer/Finisher",
-        SP: "Specialist"
+        CO: "Vorsitzende/r, KoordinatorIn",
+        SH: "MacherIn, ErgebnisführerIn, AktionistIn",
+        PL: "ErfinderIn, IdeengeberIn",
+        ME: "BeobachterIn, kritische/r PrüferIn",
+        IMP: "UmsetzerIn, organisierte/r PragmatikerIn",
+        TW: "TeamarbeiterIn, IntegriererIn",
+        RI: "WeichenstellerIn, Kontaktmann, -frau, WegbereiterIn",
+        CF: "PerfektioniererIn, VollenderIn",
+        SP: "SpezialistIn, ExpertIn"
     };
 
     function checkFieldsAndAdvance(event) {
